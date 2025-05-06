@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/c00k_/OneDrive/Documents/Unreal Projects/PinballGame/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/c00k_/OneDrive/Documents/Unreal Projects/PinballGame/Content/TestWorld.umap",
+				"C:/Users/c00k_/OneDrive/Documents/Unreal Projects/PinballGame/Content/PinBallAssets/PinballMap.umap",
+				"C:/Users/c00k_/OneDrive/Documents/Unreal Projects/PinballGame/Content/PinBallAssets/BP_Pinball.uasset",
+				"C:/Users/c00k_/OneDrive/Documents/Unreal Projects/PinballGame/Content/PinBallAssets/Blueprints/BP_Pinball.uasset",
+				"C:/Users/c00k_/OneDrive/Documents/Unreal Projects/PinballGame/Content/PinBallAssets/Blueprints/TESTS/BP_Despawn.uasset",
+				"C:/Users/c00k_/OneDrive/Documents/Unreal Projects/PinballGame/Content/PinBallAssets/Blueprints/TESTS/BP_Spawn.uasset",
+				"C:/Users/c00k_/OneDrive/Documents/Unreal Projects/PinballGame/Content/PinBallAssets/_GENERATED/c00k/Box_5DB8CE6A.uasset"
+			]
+		}
+	]
+}
